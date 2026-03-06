@@ -12,7 +12,6 @@ A Flask-based web application that allows users to describe a support issue in p
 
 ## Live Demo
 🌐 https://support-ticket-search-1-w92y.onrender.com/
-
 ---
 
 ## Tools and Technologies
@@ -50,7 +49,10 @@ project-folder/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/vaitheeswarivaithee532-hue/support-ticket-search
+git clone Github repository: https://github.com/vaitheeswarivaithee532-hue/support-ticket-search
+
+Live URL : 
+https://support-ticket-search-1-w92y.onrender.com/
 cd support-ticket-search
 ```
 
@@ -91,7 +93,7 @@ http://localhost:8080
 ### Live Deployment
 The application is deployed and accessible at:
 ```
-https://support-ticket-search-63ba.onrender.com/
+https://support-ticket-search-1-w92y.onrender.com/
 ```
 
 Type a support issue description into the search box and press **Search** (or `Ctrl+Enter`). The system will display ranked matching tickets with similarity scores and solution recommendations.
@@ -124,5 +126,15 @@ Each line must follow this format (no line breaks within a ticket):
 T001|Description of the issue|Solution steps
 ```
 
+---
 
+
+
+## Author
+Vaitheeswari K  
+Roll No: 2303121045
+Department: Information Science and Engineering
+
+## Project
+Support Ticket Search — Flask Web Application
 
